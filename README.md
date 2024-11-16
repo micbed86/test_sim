@@ -39,7 +39,7 @@ numpy
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/micbed86/test_simtest_sim.git
+git clone https://github.com/micbed86/test_sim.git
 ```
 
 2. Install required packages:
