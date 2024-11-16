@@ -1,4 +1,3 @@
-```markdown
 # Test Score Simulator
 
 A Python application with a dark-themed GUI that simulates multiple-choice test attempts and calculates the probability of passing based on given parameters.
